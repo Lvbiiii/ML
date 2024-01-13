@@ -91,6 +91,7 @@ def readLangs(lang1,lang2,reverse=False):
 #为便于训练，这里选择部分数据
 MAX_LENGTH = 50
 
+
 eng_prefixes = (
     "i am ", "i m ",
     "he is", "he s ",
